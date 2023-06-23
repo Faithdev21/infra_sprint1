@@ -1,0 +1,5 @@
+IP: 130.193.34.254;
+name_taski: https://faithdev.sytes.net/;
+name_kittygram: https://kitty-photos.sytes.net/;
+login: admin;
+password: admin;
